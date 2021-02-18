@@ -22,8 +22,8 @@ export default function Footer() {
         </div>
       </Container>
       <Container>
-        <div className="flex flex-row items-center justify-center py-5">
-          Deploy with Netlify
+        <div className="flex flex-row items-center justify-center py-5 text-sm font-bold">
+          Deploy with Vercel
         </div>
       </Container>
     </footer>
